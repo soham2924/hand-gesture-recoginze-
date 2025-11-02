@@ -59,4 +59,4 @@ Look in demo for some visual clarity.
 
 Well now it's time for some demo.
 
-![Alt Text](https://github.com/SparshaSaha/Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network/blob/master/Demo.gif)
+![Alt Text]([https://github.com/soham2924/hand-gesture-recoginze-/blob/main/Temp.png]).
